@@ -16,7 +16,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Hanson\\Rainbow\\RainbowServiceProviders"
+                "Hanson\\Rainbow\\RainbowServiceProvider"
             ]
         }
     }
