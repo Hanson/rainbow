@@ -1,8 +1,6 @@
 <?php
 
-
-namespace Hanson;
-
+namespace Hanson\Rainbow;
 
 use Illuminate\Support\ServiceProvider;
 

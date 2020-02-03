@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hanson;
+namespace Hanson\Rainbow;
 
 use Encore\Admin\Extension;
 

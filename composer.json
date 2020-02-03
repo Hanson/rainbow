@@ -10,13 +10,13 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Hanson\\": "src/"
+            "Hanson\\Rainbow\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Hanson\\RainbowServiceProvider"
+                "Hanson\\Rainbow\\RainbowServiceProvider"
             ]
         }
     }
