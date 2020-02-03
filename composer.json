@@ -1,0 +1,23 @@
+{
+    "name": "hanson/rainbow",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hanson",
+            "email": "h@hanc.cc"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hanson\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hanson\\RainbowServiceProvider"
+            ]
+        }
+    }
+}
