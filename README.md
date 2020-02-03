@@ -9,12 +9,15 @@ A skin for [laravel-admin](https://laravel-admin.org/)
 ## Skins
 
 Support skins:
-* `rainbow-blue` 
-* `rainbow-green`
-* `rainbow-red`
-* `rainbow-orange`
-* `rainbow-white-blue`
-* `rainbow-origin` to revert the origin skin.(This is not a skin.)
+* `rainbow-blue` 蓝色
+* `rainbow-green` 绿色
+* `rainbow-red` 红色
+* `rainbow-orange` 橙色
+* `rainbow-yellow` 黄色
+* `rainbow-olive` 橄榄
+* `rainbow-cyan` 天青
+* `rainbow-white-blue` 白蓝
+* `rainbow-origin` to revert the origin skin.(This is not a skin.) 用于回滚样式（不是皮肤）
 
 publish resources
 
@@ -65,3 +68,21 @@ return [
 ![2CK_XF4W4Q_FMC@L_PX__C8.png](https://i.loli.net/2020/02/03/GBJhkC6EXuF3cVo.png)
 
 ![O5T3XS_8DQE_~KQO_5__M98.png](https://i.loli.net/2020/02/03/wgvp7qG29OFxh45.png)
+
+### rainbow-yellow
+
+![E_C`_NOI6_319WNJXK3TQTA.png](https://i.loli.net/2020/02/03/pxY3h9Zw5Nb1VmM.png)
+
+![_Q94W9E33UO_VFPWN_O380R.png](https://i.loli.net/2020/02/03/xk79bPr3aS5Q8FJ.png)
+
+### rainbow-olive
+
+![J_JJLPR4FCQ9_`__CBAO_64.png](https://i.loli.net/2020/02/03/J8OcZTsnyqS4VWl.png)
+
+![VN_CL1C34_`_2I_`3BBV1NT.png](https://i.loli.net/2020/02/03/Ib6QCalvzeYUht5.png)
+
+### rainbow-cyan
+
+![HYYAIM_`IPQE949N0_RWVMD.png](https://i.loli.net/2020/02/03/a1hF7zdTMlvqKmk.png)
+
+![HIFPNCXI_BK1OZG__X_L7`3.png](https://i.loli.net/2020/02/03/8jXJRq3Kz4T5wU6.png)

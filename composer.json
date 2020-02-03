@@ -19,5 +19,8 @@
                 "Hanson\\Rainbow\\RainbowServiceProvider"
             ]
         }
+    },
+    "require-dev": {
+        "encore/laravel-admin": "^1.7"
     }
 }
