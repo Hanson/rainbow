@@ -8,7 +8,7 @@ A skin for [laravel-admin](https://laravel-admin.org/)
 
 publish resources
 
-`php artisan vendor:publish --tag=rainbow` 
+`php artisan vendor:publish --tag=rainbow --force` 
 
 ## Configuration
 
