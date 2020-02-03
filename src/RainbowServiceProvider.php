@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
 
 class RainbowServiceProvider extends ServiceProvider
 {
-    public function boot($extension)
+    public function boot(Rainbow $extension)
     {
         $cssPath = 'vendor/laravel-admin/AdminLTE/dist/css/';
 
